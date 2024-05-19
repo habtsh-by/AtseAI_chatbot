@@ -1,0 +1,746 @@
+{
+  "questions":
+  [
+    {
+      "question": "hi",
+      "answer": "hi there "
+    },
+    {
+      "question": "hello",
+      "answer": "hello there"
+    },
+    {
+      "question": "how are you feeling today ?",
+      "answer": "i am a robot i have no feelings"
+    },
+    {
+      "question": "what is your name ? ",
+      "answer": "my name is ATSE"
+    },
+    {
+      "question": "who made you ? ",
+      "answer": "i was made by Habtamu , kirubel and michael"
+    },
+    {
+      "question": "who are you",
+      "answer": "my name is ATSE. I am a simple chatbot !!"
+    },
+    {
+      "question": "how are you today",
+      "answer": "i am alright how about you ?"
+    },
+    {
+      "question": "what is 1+1",
+      "answer": "2"
+    },
+    {
+      "question": "What is algebra?",
+      "answer": "Algebra is the part of mathematics in which letters and other general symbols are used to represent numbers and quantities in formulas and equations."
+    },
+    {
+      "question": "Solve for x: 2x + 3 = 7",
+      "answer": "To solve for x, subtract 3 from both sides to get 2x = 4, then divide both sides by 2 to get x = 2."
+    },
+    {
+      "question": "What is Newton's second law of motion?",
+      "answer": "Newton's second law of motion states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. This can be expressed as F = ma."
+    },
+    {
+      "question": "What is the periodic table?",
+      "answer": "The periodic table is a tabular arrangement of the chemical elements, organized by their atomic number, electron configuration, and recurring chemical properties."
+    },
+    {
+      "question": "What is the area of a triangle?",
+      "answer": "The area of a triangle is calculated as 0.5 * base * height."
+    },
+    {
+      "question": "Explain the concept of gravity.",
+      "answer": "Gravity is a force by which a planet or other body draws objects toward its center. It is what gives weight to physical objects and causes them to fall toward the ground when dropped."
+    },
+    {
+      "question": "What are algorithms?",
+      "answer": "Algorithms are a set of step-by-step instructions designed to perform a specific task or solve a particular problem."
+    },
+    {
+      "question": "What is the time complexity of bubble sort?",
+      "answer": "The time complexity of bubble sort is O(n^2) in the worst and average cases, and O(n) in the best case."
+    },
+    {
+      "question": "What are data structures?",
+      "answer": "Data structures are a way of organizing and storing data in a computer so that it can be accessed and modified efficiently."
+    },
+    {
+      "question": "Explain the concept of linked lists.",
+      "answer": "A linked list is a linear data structure consisting of a sequence of elements, where each element points to the next element in the sequence."
+    },
+    {
+      "question": "What is agile methodology?",
+      "answer": "Agile methodology is an iterative approach to software development that emphasizes flexibility, collaboration, and customer feedback."
+    },
+    {
+      "question": "What are the core principles of Scrum?",
+      "answer": "The core principles of Scrum include transparency, inspection, and adaptation."
+    },
+    {
+      "question": "Why is software testing important?",
+      "answer": "Software testing is important because it helps identify defects or errors in the software, ensuring its reliability and quality."
+    },
+    {
+      "question": "What are the different types of software testing?",
+      "answer": "Some common types of software testing include unit testing, integration testing, and acceptance testing."
+    },
+    {
+      "question": "What are some must-visit attractions in Addis Ababa?",
+      "answer": "Some must-visit attractions in Addis Ababa include the National Museum of Ethiopia, Holy Trinity Cathedral, and Mount Entoto."
+    },
+    {
+      "question": "What is the best time to visit Addis Ababa?",
+      "answer": "The best time to visit Addis Ababa is during the dry season, from October to February, when the weather is pleasant."
+    },
+    {
+      "question": "What makes Lalibela a unique destination?",
+      "answer": "Lalibela is known for its rock-hewn churches, which are UNESCO World Heritage sites and marvels of ancient architecture."
+    },
+    {
+      "question": "How can I get to Lalibela?",
+      "answer": "You can fly to Lalibela from Addis Ababa or take a bus or car from nearby towns."
+    },
+    {
+      "question": "What activities can I do in the Simien Mountains?",
+      "answer": "In the Simien Mountains, you can go hiking, trekking, birdwatching, and even spot the endemic Ethiopian wolf."
+    },
+    {
+      "question": "Is it safe to visit the Simien Mountains?",
+      "answer": "Yes, it's safe to visit the Simien Mountains, but it's advisable to hire a local guide for hiking and trekking."
+    },
+    {
+      "question": "How can I visit tribal villages in the Omo Valley?",
+      "answer": "You can visit tribal villages in the Omo Valley by joining organized tours or hiring local guides who can facilitate cultural exchanges and visits to remote communities."
+    },
+    {
+      "question": "What should I expect when visiting tribal villages?",
+      "answer": "When visiting tribal villages, expect to witness traditional rituals, ceremonies, and daily activities such as farming, weaving, and cattle herding."
+    },
+    {
+      "question": "Are there any cultural etiquette I should follow when visiting tribal villages?",
+      "answer": "Yes, it's important to respect the customs and traditions of the indigenous tribes, seek permission before taking photos, and engage with the local community in a respectful and responsible manner."
+    },
+    {
+      "question": "What makes the Omo Valley a unique destination?",
+      "answer": "The Omo Valley is known for its diverse indigenous tribes, stunning landscapes, and rich cultural heritage, making it a unique destination for cultural immersion and photography."
+    },
+    {
+      "question": "Which indigenous tribes can I visit in the Omo Valley?",
+      "answer": "Some of the indigenous tribes in the Omo Valley include the Hamar, Mursi, Karo, and Dassanech, each with their own distinct cultures, languages, and customs."
+    },
+    {
+      "question": "What activities can I do in the Omo Valley?",
+      "answer": "In the Omo Valley, you can visit tribal villages, attend cultural ceremonies, explore traditional markets, and embark on scenic hikes along the Omo River."
+    },
+    {
+      "question": "What is the culture of Ethiopia like?",
+      "answer": "Ethiopia has a rich and diverse cultural heritage, influenced by its ancient history, religious traditions, and ethnic diversity. The country is known for its vibrant music, dance, cuisine, and festivals."
+    },
+    {
+      "question": "What are some traditional Ethiopian dishes?",
+      "answer": "Traditional Ethiopian dishes include injera (a sourdough flatbread), doro wat (spicy chicken stew), kitfo (minced raw beef), and injera firfir (a dish made with torn pieces of injera mixed with spicy sauce)."
+    },
+    {
+      "question": "What is the history of Ethiopia?",
+      "answer": "Ethiopia has a long and storied history dating back thousands of years. It is one of the oldest independent countries in the world, with a rich cultural heritage and a legacy of ancient civilizations such as the Axumite Empire and the Kingdom of Aksum."
+    },
+    {
+      "question": "What are some historical sites in Ethiopia?",
+      "answer": "Some notable historical sites in Ethiopia include the rock-hewn churches of Lalibela, the ancient city of Aksum, and the castles of Gondar."
+    },
+    {
+      "question": "What wildlife can be found in Ethiopia?",
+      "answer": "Ethiopia is home to a diverse array of wildlife, including mammals such as the Ethiopian wolf, gelada baboon, and Walia ibex, as well as numerous bird species and endemic plants."
+    },
+    {
+      "question": "Are there any national parks in Ethiopia?",
+      "answer": "Yes, Ethiopia has several national parks and protected areas, including Simien Mountains National Park, Bale Mountains National Park, and Omo National Park, which are known for their unique biodiversity and stunning landscapes."
+    },
+
+      {
+        "question": "fever, cough, sore throat",
+        "answer": "common cold"
+      },
+      {
+        "question": "fever, fatigue, body aches",
+        "answer": "influenza"
+      },
+      {
+        "question": "fever, headache, rash",
+        "answer": "measles"
+      },
+      {
+        "question": "fever, cough, shortness of breath",
+        "answer": "pneumonia"
+      },
+      {
+        "question": "fever, cough, chest pain",
+        "answer": "tuberculosis"
+      },
+      {
+        "question": "fever, headache, stiff neck",
+        "answer": "meningitis"
+      },
+      {
+        "question": "fever, abdominal pain, diarrhea",
+        "answer": "gastroenteritis"
+      },
+      {
+        "question": "fever, joint pain, muscle pain",
+        "answer": "dengue fever"
+      },
+      {
+        "question": "fever, chills, body aches",
+        "answer": "malaria"
+      },
+      {
+        "question": "fever, cough, runny nose",
+        "answer": "common cold"
+      },
+      {
+        "question": "fever, fatigue, body aches",
+        "answer": "influenza"
+      },
+      {
+        "question": "fever, headache, rash",
+        "answer": "measles"
+      },
+      {
+        "question": "fever, cough, shortness of breath",
+        "answer": "pneumonia"
+      },
+      {
+        "question": "fever, cough, chest pain",
+        "answer": "tuberculosis"
+      },
+      {
+        "question": "fever, headache, stiff neck",
+        "answer": "meningitis"
+      },
+      {
+        "question": "fever, abdominal pain, diarrhea",
+        "answer": "gastroenteritis"
+      },
+      {
+        "question": "fever, joint pain, muscle pain",
+        "answer": "dengue fever"
+      },
+      {
+        "question": "fever, chills, body aches",
+        "answer": "malaria"
+      },
+      {
+        "question": "fever, cough, runny nose",
+        "answer": "common cold"
+      },
+      {
+        "question": "fever, fatigue, body aches",
+        "answer": "influenza"
+      },
+      {
+        "question": "fever, headache, rash",
+        "answer": "measles"
+      },
+      {
+        "question": "fever, cough, shortness of breath",
+        "answer": "pneumonia"
+      },
+      {
+        "question": "fever, cough, chest pain",
+        "answer": "tuberculosis"
+      },
+      {
+        "question": "fever, headache, stiff neck",
+        "answer": "meningitis"
+      },
+      {
+        "question": "fever, abdominal pain, diarrhea",
+        "answer": "gastroenteritis"
+      },
+      {
+        "question": "fever, joint pain, muscle pain",
+        "answer": "dengue fever"
+      },
+      {
+        "question": "fever, chills, body aches",
+        "answer": "malaria"
+      },
+      {
+        "question": "fever, cough, runny nose",
+        "answer": "common cold"
+      },
+      {
+        "question": "fever, fatigue, body aches",
+        "answer": "influenza"
+      },
+      {
+        "question": "fever, headache, rash",
+        "answer": "measles"
+      },
+      {
+        "question": "fever, cough, shortness of breath",
+        "answer": "pneumonia"
+      },
+      {
+        "question": "fever, cough, chest pain",
+        "answer": "tuberculosis"
+      },
+      {
+        "question": "fever, headache, stiff neck",
+        "answer": "meningitis"
+      },
+      {
+        "question": "fever, abdominal pain, diarrhea",
+        "answer": "gastroenteritis"
+      },
+      {
+        "question": "fever, joint pain, muscle pain",
+        "answer": "dengue fever"
+      },
+      {
+        "question": "fever, chills, body aches",
+        "answer": "malaria"
+      },
+
+
+      {
+        "question": "What is the capital city of Ethiopia?",
+        "answer": "Addis Ababa"
+      },
+      {
+        "question": "Which empire was Ethiopia a part of until 1974?",
+        "answer": "Solomonic dynasty"
+      },
+      {
+        "question": "What is the official language of Ethiopia?",
+        "answer": "Amharic"
+      },
+      {
+        "question": "What is the largest ethnic group in Ethiopia?",
+        "answer": "Oromo"
+      },
+      {
+        "question": "What is the dominant religion in Ethiopia?",
+        "answer": "Christianity"
+      },
+      {
+        "question": "What is the currency of Ethiopia?",
+        "answer": "Ethiopian birr"
+      },
+      {
+        "question": "What is the highest mountain in Ethiopia?",
+        "answer": "Ras Dashen"
+      },
+      {
+        "question": "Which lake in Ethiopia is the largest by volume?",
+        "answer": "Lake Tana"
+      },
+      {
+        "question": "What is the traditional Ethiopian bread called?",
+        "answer": "Injera"
+      },
+      {
+        "question": "Which ancient civilization is known for its obelisks in Ethiopia?",
+        "answer": "Aksumite Empire"
+      },
+      {
+        "question": "What is the name of the rock-hewn churches in Lalibela, Ethiopia?",
+        "answer": "Church of St. George"
+      },
+      {
+        "question": "What is the name of the Ethiopian New Year?",
+        "answer": "Enkutatash"
+      },
+      {
+        "question": "Which national park in Ethiopia is known for its gelada baboons?",
+        "answer": "Simien Mountains National Park"
+      },
+      {
+        "question": "What is the traditional Ethiopian coffee ceremony called?",
+        "answer": "Buna"
+      },
+      {
+        "question": "Which river in Ethiopia is the longest?",
+        "answer": "Blue Nile"
+      },
+      {
+        "question": "What is the name of the ancient city in Ethiopia known for its monolithic churches?",
+        "answer": "Axum"
+      },
+      {
+        "question": "Which famous marathon runner is from Ethiopia?",
+        "answer": "Haile Gebrselassie"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian music?",
+        "answer": "Ethio-jazz"
+      },
+      {
+        "question": "Which UNESCO World Heritage Site in Ethiopia is known for its ancient obelisks?",
+        "answer": "Aksum"
+      },
+      {
+        "question": "What is the name of the ancient city in Ethiopia known for its rock-cut churches?",
+        "answer": "Lalibela"
+      },
+      {
+        "question": "Which national park in Ethiopia is known for its diverse bird species?",
+        "answer": "Bale Mountains National Park"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian honey wine?",
+        "answer": "Tej"
+      },
+      {
+        "question": "What is the name of the volcanic lake in Ethiopia known for its flamingos?",
+        "answer": "Lake Abijatta"
+      },
+      {
+        "question": "Which famous long-distance runner is from Ethiopia?",
+        "answer": "Kenenisa Bekele"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian dance?",
+        "answer": "Eskista"
+      },
+      {
+        "question": "Which UNESCO World Heritage Site in Ethiopia is known for its rock-hewn churches?",
+        "answer": "Lalibela"
+      },
+      {
+        "question": "What is the name of the ancient city in Ethiopia known for its stone obelisks?",
+        "answer": "Aksum"
+      },
+      {
+        "question": "Which national park in Ethiopia is known for its hot springs?",
+        "answer": "Awash National Park"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian beer?",
+        "answer": "Tella"
+      },
+      {
+        "question": "Which ethnic group in Ethiopia is known for their body painting?",
+        "answer": "Hamar"
+      },
+      {
+        "question": "What is the name of the rift valley lake in Ethiopia known for its birdlife?",
+        "answer": "Lake Awasa"
+      },
+      {
+        "question": "Which famous marathon runner is from Ethiopia and won the gold medal in the 1960 Rome Olympics?",
+        "answer": "Abebe Bikila"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian instrument similar to a guitar?",
+        "answer": "Krar"
+      },
+      {
+        "question": "Which UNESCO World Heritage Site in Ethiopia is known for its ancient ruins?",
+        "answer": "Aksum"
+      },
+      {
+        "question": "What is the name of the ancient city in Ethiopia known for its underground churches?",
+        "answer": "Lalibela"
+      },
+      {
+        "question": "Which national park in Ethiopia is known for its salt flats?",
+        "answer": "Danakil Depression"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian liquor?",
+        "answer": "Araki"
+      },
+      {
+        "question": "Which ethnic group in Ethiopia is known for their body scarification?",
+        "answer": "Mursi"
+      },
+      {
+        "question": "What is the name of the crater lake in Ethiopia known for its hot springs?",
+        "answer": "Lake Abaya"
+      },
+      {
+        "question": "Which famous long-distance runner is from Ethiopia and won the gold medal in the 2000 Sydney Olympics?",
+        "answer": "Derartu Tulu"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian string instrument?",
+        "answer": "Masenqo"
+      },
+      {
+        "question": "Which UNESCO World Heritage Site in Ethiopia is known for its ancient monolithic churches?",
+        "answer": "Lalibela"
+      },
+      {
+        "question": "What is the name of the ancient city in Ethiopia known for its stelae?",
+        "answer": "Aksum"
+      },
+      {
+        "question": "Which national park in Ethiopia is known for its ancient rock art?",
+        "answer": "Dallol"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian spirit?",
+        "answer": "Katikala"
+      },
+      {
+        "question": "Which ethnic group in Ethiopia is known for their lip plates?",
+        "answer": "Suri"
+      },
+      {
+        "question": "What is the name of the crater lake in Ethiopia known for its birdlife?",
+        "answer": "Lake Chamo"
+      },
+      {
+        "question": "Which famous marathon runner is from Ethiopia and won the gold medal in the 2004 Athens Olympics?",
+        "answer": "Mizuki Noguchi"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian flute?",
+        "answer": "Washint"
+      },
+      {
+        "question": "Which UNESCO World Heritage Site in Ethiopia is known for its ancient churches and monasteries?",
+        "answer": "Lake Tana"
+      },
+      {
+        "question": "What is the name of the ancient city in Ethiopia known for its cave churches?",
+        "answer": "Lalibela"
+      },
+      {
+        "question": "Which national park in Ethiopia is known for its endemic wildlife?",
+        "answer": "Nechisar National Park"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian mead?",
+        "answer": "Areke"
+      },
+      {
+        "question": "Which ethnic group in Ethiopia is known for their bull jumping ceremony?",
+        "answer": "Hamar"
+      },
+      {
+        "question": "What is the name of the rift valley lake in Ethiopia known for its hippos?",
+        "answer": "Lake Ziway"
+      },
+      {
+        "question": "Which famous long-distance runner is from Ethiopia and won the gold medal in the 2008 Beijing Olympics?",
+        "answer": "Tirunesh Dibaba"
+      },
+      {
+        "question": "What is the name of the traditional Ethiopian drum?",
+        "answer": "Kebero"
+      },
+    {
+    "question": "What is the meaning of life?",
+    "answer": "42"
+  },
+  {
+    "question": "What is the capital city of France?",
+    "answer": "Paris"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Who wrote the play Romeo and Juliet?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "answer": "J.K. Rowling"
+  },
+  {
+    "question": "What is the formula for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Who is the founder of Microsoft?",
+    "answer": "Bill Gates"
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "299,792,458 meters per second"
+  },
+  {
+    "question": "Who wrote the novel Pride and Prejudice?",
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "What is the symbol for the element oxygen?",
+    "answer": "O"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "What is the largest continent?",
+    "answer": "Asia"
+  },
+  {
+    "question": "Who painted the Starry Night?",
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "question": "Who is the CEO of Tesla?",
+    "answer": "Elon Musk"
+  },
+  {
+    "question": "What is the value of pi?",
+    "answer": "3.14159"
+  },
+  {
+    "question": "Who wrote the play Hamlet?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "answer": "Fe"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "What is the deepest part of the ocean?",
+    "answer": "Mariana Trench"
+  },
+  {
+    "question": "Who is the author of To Kill a Mockingbird?",
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "What is the formula for Einstein's theory of relativity?",
+    "answer": "E=mc^2"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer": "Sahara Desert"
+  },
+  {
+    "question": "Who painted the Last Supper?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the capital city of China?",
+    "answer": "Beijing"
+  },
+  {
+    "question": "Who is the founder of Apple?",
+    "answer": "Steve Jobs"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "answer": "100 degrees Celsius"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "George Orwell"
+  },
+  {
+    "question": "What is the symbol for the element carbon?",
+    "answer": "C"
+  },
+  {
+    "question": "Who discovered electricity?",
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "question": "What is the second largest continent?",
+    "answer": "Africa"
+  },
+  {
+    "question": "Who painted the Guernica?",
+    "answer": "Pablo Picasso"
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "answer": "Brasília"
+  },
+  {
+    "question": "Who is the CEO of Amazon?",
+    "answer": "Jeff Bezos"
+  },
+  {
+    "question": "What is the value of e (Euler's number)?",
+    "answer": "2.71828"
+  },
+  {
+    "question": "Who wrote the play Macbeth?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "answer": "Ag"
+  },
+  {
+    "question": "Who discovered the theory of gravity?",
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the highest waterfall in the world?",
+    "answer": "Angel Falls"
+  },
+  {
+    "question": "Who is the author of The Great Gatsby?",
+    "answer": "F. Scott Fitzgerald"
+  }
+
+
+
+
+
+
+
+  ]
+}
+
+
+
